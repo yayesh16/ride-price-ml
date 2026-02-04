@@ -27,6 +27,19 @@ The dataset used in this project is synthetically generated to simulate realisti
 
 The dataset includes both **numerical** and **categorical** features to reflect real-world ride conditions.
 
+### Real-World Pricing Logic
+This project models the pricing behavior of the RIDE app in Addis Ababa. According to local fare data, the total cost of a trip is calculated using a fixed base fee plus a rate for every kilometer and minute traveled:
+
+Total Fare = Base Fee + (Distance × KM Rate) + (Time × Minute Rate)
+
+* Base Fee: A one-time fixed charge that starts as soon as the meter begins (typically between 130 ETB and 172 ETB depending on the car type).
+
+* Distance Rate: A charge for every kilometer traveled, currently standard at 18 ETB/km.
+
+* Time Rate: A charge for the duration of the trip, usually 3–4 ETB per minute, which helps account for heavy traffic congestion.
+
+Traffic Influence: While the formula is fixed, traffic indirectly increases the fare by adding more minutes to the "Time Rate" portion of the calculation.
+
 ## Features Used
 
 * distance_km: The length of the trip.
