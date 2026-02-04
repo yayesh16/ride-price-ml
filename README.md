@@ -40,6 +40,12 @@ Total Fare = Base Fee + (Distance × KM Rate) + (Time × Minute Rate)
 
 Traffic Influence: While the formula is fixed, traffic indirectly increases the fare by adding more minutes to the "Time Rate" portion of the calculation.
 
+Type of Car,Time Rate (ETB/min),Distance Rate (ETB/km),Night Time Rate (ETB/min),Night Distance Rate (ETB/km)
+MIDSIZE4,4,18,4,24
+Comfort | New Cars,4,19,4,25
+MINIVAN 7,3,28,4,31
+Ride Any EV,4,18,4,24
+
 ## Features Used
 
 * distance_km: The length of the trip.
