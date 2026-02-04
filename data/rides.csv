@@ -1,1 +1,161 @@
-
+distance_km,duration_min,time_of_day,traffic_level,weather,vehicle_type,ride_price
+14.36,35.74,Afternoon,Low,Rainy,Ride Any EV,543.98
+33.37,54.26,Afternoon,Medium,Cloudy,Comfort,1053.87
+26.16,54.35,Night,Low,Clear,Comfort,868.97
+21.76,47.5,Morning,Low,Cloudy,Comfort,771.63
+7.15,16.32,Night,Medium,Clear,MIDSIZE4,397.39
+7.15,68.47,Morning,Low,Rainy,Comfort,579.43
+3.92,32.45,Morning,Medium,Rainy,Comfort,428.83
+30.58,23.06,Morning,Low,Rainy,MIDSIZE4,817.34
+21.84,12.85,Night,High,Rainy,MINIVAN 7,712.39
+25.37,51.36,Morning,High,Cloudy,MIDSIZE4,895.49
+2.68,57.43,Evening,Low,Clear,Comfort,470.6
+34.01,11.16,Night,Low,Clear,MIDSIZE4,828.93
+29.47,45.85,Evening,Low,Cloudy,MINIVAN 7,932.68
+9.01,25.85,Morning,High,Clear,MIDSIZE4,480.73
+8.0,55.16,Afternoon,Low,Rainy,Comfort,542.16
+8.05,22.21,Morning,High,Clear,MINIVAN 7,482.35
+12.04,58.37,Evening,Medium,Rainy,Ride Any EV,655.17
+19.32,37.07,Evening,High,Cloudy,Comfort,760.88
+16.25,75.57,Night,High,Clear,MINIVAN 7,871.05
+11.61,19.63,Afternoon,Medium,Cloudy,MINIVAN 7,512.37
+22.19,33.87,Night,High,Clear,Ride Any EV,778.8
+6.6,17.94,Evening,Low,Rainy,MIDSIZE4,356.52
+11.64,74.73,Morning,Low,Cloudy,MIDSIZE4,678.31
+14.09,71.41,Afternoon,High,Clear,Comfort,785.86
+17.05,28.06,Morning,Low,Rainy,Ride Any EV,583.66
+27.91,56.2,Morning,High,Cloudy,MIDSIZE4,965.62
+8.59,67.21,Afternoon,Low,Cloudy,Ride Any EV,590.3
+18.97,48.86,Night,Low,Clear,MIDSIZE4,707.45
+21.55,47.08,Morning,High,Clear,MINIVAN 7,852.9
+3.53,26.93,Evening,Low,Clear,MIDSIZE4,341.37
+22.05,16.52,Morning,High,Rainy,Ride Any EV,688.77
+7.63,72.81,Afternoon,Low,Clear,MINIVAN 7,643.55
+4.15,73.03,Afternoon,Low,Cloudy,MINIVAN 7,584.45
+33.31,54.32,Afternoon,Medium,Cloudy,MINIVAN 7,1058.24
+33.87,33.73,Night,Medium,Clear,Ride Any EV,925.16
+28.68,34.44,Morning,High,Clear,Comfort,903.59
+12.05,60.82,Night,Medium,Cloudy,Comfort,676.71
+5.22,72.8,Night,High,Rainy,Comfort,617.25
+24.58,72.1,Afternoon,Medium,Clear,Ride Any EV,913.1
+16.53,64.59,Afternoon,Low,Clear,MINIVAN 7,771.98
+6.03,54.94,Night,High,Cloudy,Comfort,590.39
+18.34,15.89,Morning,High,Clear,Ride Any EV,621.93
+3.13,21.31,Evening,Low,Rainy,Comfort,344.3
+32.01,72.9,Night,High,Cloudy,MIDSIZE4,1095.8
+10.54,52.45,Morning,High,Clear,Comfort,647.02
+23.86,10.64,Afternoon,Medium,Cloudy,Comfort,690.1
+12.29,17.1,Afternoon,High,Clear,MINIVAN 7,536.36
+19.16,56.45,Morning,Low,Clear,Ride Any EV,745.79
+20.04,10.35,Evening,Medium,Clear,MINIVAN 7,618.51
+8.1,21.26,Afternoon,Medium,Rainy,MINIVAN 7,475.81
+34.0,48.41,Afternoon,Low,Rainy,MINIVAN 7,1022.51
+27.58,58.43,Afternoon,Low,Cloudy,MINIVAN 7,916.76
+33.0,55.64,Morning,Medium,Clear,MINIVAN 7,1028.67
+31.53,25.7,Night,High,Clear,Comfort,929.66
+21.73,59.85,Afternoon,Medium,Rainy,MINIVAN 7,877.69
+32.42,26.61,Night,Low,Clear,MINIVAN 7,891.19
+4.92,32.78,Evening,Medium,Rainy,Ride Any EV,395.86
+8.47,62.25,Afternoon,Low,Clear,MIDSIZE4,578.59
+3.49,55.47,Afternoon,Medium,Cloudy,Comfort,494.57
+12.74,69.45,Evening,High,Clear,Comfort,762.66
+14.83,56.03,Afternoon,Medium,Clear,Comfort,705.86
+10.95,49.78,Night,Medium,Rainy,MINIVAN 7,647.05
+29.35,16.56,Morning,Low,Clear,MINIVAN 7,814.24
+13.77,35.74,Night,Low,Clear,MINIVAN 7,608.03
+11.27,28.56,Morning,Low,Rainy,Ride Any EV,473.58
+19.91,27.08,Morning,Medium,Cloudy,MIDSIZE4,659.45
+6.65,78.11,Night,High,Cloudy,MINIVAN 7,701.62
+28.47,37.52,Night,Low,Rainy,MIDSIZE4,852.95
+4.46,72.44,Night,Low,Rainy,Ride Any EV,525.98
+34.57,54.18,Night,Medium,Rainy,Comfort,1051.59
+27.48,65.64,Evening,Low,Rainy,MINIVAN 7,944.75
+8.56,45.18,Afternoon,High,Rainy,MIDSIZE4,573.56
+2.18,50.38,Morning,High,Cloudy,MIDSIZE4,495.33
+28.91,44.48,Night,Low,Cloudy,MINIVAN 7,898.96
+25.33,23.67,Night,Low,Rainy,Comfort,767.36
+26.06,60.57,Night,Medium,Clear,Comfort,923.18
+27.45,29.65,Evening,High,Rainy,Comfort,831.97
+4.44,11.7,Night,High,Clear,Ride Any EV,342.86
+13.83,55.18,Night,Low,Rainy,MIDSIZE4,654.96
+5.82,22.4,Night,Medium,Rainy,MIDSIZE4,411.35
+30.48,75.83,Afternoon,High,Cloudy,MIDSIZE4,1091.14
+22.57,76.78,Evening,High,Clear,Ride Any EV,949.06
+12.92,74.04,Night,Medium,Clear,MIDSIZE4,713.94
+4.1,35.91,Morning,Medium,Cloudy,Ride Any EV,395.64
+12.26,11.08,Morning,High,Cloudy,Comfort,493.21
+12.73,74.98,Morning,High,Cloudy,MINIVAN 7,793.01
+26.08,39.97,Evening,Medium,Cloudy,MIDSIZE4,833.94
+23.04,77.67,Evening,High,Clear,MIDSIZE4,959.53
+31.28,77.45,Morning,Low,Clear,Comfort,1066.52
+17.58,69.71,Night,Low,Rainy,MINIVAN 7,795.91
+5.95,30.61,Evening,Medium,Rainy,Ride Any EV,405.78
+25.54,36.96,Morning,Medium,Cloudy,MINIVAN 7,844.61
+27.11,69.58,Morning,Medium,Cloudy,Comfort,970.27
+20.52,32.18,Night,Low,Cloudy,Comfort,696.1
+27.44,21.86,Afternoon,High,Rainy,MINIVAN 7,845.09
+18.3,48.98,Evening,Low,Rainy,Ride Any EV,680.37
+19.25,75.53,Night,High,Rainy,Ride Any EV,872.81
+16.11,58.72,Morning,Low,Rainy,MIDSIZE4,692.97
+2.84,49.9,Morning,High,Rainy,Ride Any EV,458.37
+5.56,16.8,Night,Low,Rainy,MINIVAN 7,366.29
+3.04,53.05,Evening,Medium,Rainy,Comfort,482.3
+23.0,79.3,Afternoon,Low,Cloudy,MIDSIZE4,889.61
+12.37,19.81,Afternoon,High,Cloudy,MIDSIZE4,547.87
+18.78,46.28,Morning,Low,Cloudy,Comfort,701.26
+31.95,71.42,Evening,Low,Cloudy,Ride Any EV,1026.94
+10.23,61.85,Afternoon,Low,Rainy,Comfort,610.24
+15.54,58.79,Evening,Medium,Clear,Ride Any EV,690.73
+26.93,59.17,Evening,Low,Rainy,Comfort,908.88
+9.55,35.16,Morning,Medium,Clear,MINIVAN 7,558.06
+4.54,30.55,Afternoon,Medium,Cloudy,Ride Any EV,386.45
+11.56,66.66,Night,Low,Rainy,MINIVAN 7,684.07
+7.32,66.71,Morning,Low,Cloudy,MIDSIZE4,578.67
+32.68,70.7,Afternoon,Low,Rainy,Comfort,1064.45
+28.67,73.93,Afternoon,High,Cloudy,MIDSIZE4,1043.4
+22.9,45.79,Afternoon,Low,Clear,MIDSIZE4,762.93
+30.76,45.11,Afternoon,Medium,Clear,MIDSIZE4,931.95
+28.52,65.88,Afternoon,Low,Clear,MIDSIZE4,946.97
+8.16,55.5,Evening,High,Rainy,Comfort,617.01
+31.45,59.14,Morning,Low,Clear,MIDSIZE4,962.72
+19.8,65.71,Evening,High,Rainy,Comfort,867.01
+28.65,72.3,Night,High,Clear,Comfort,1042.72
+31.57,33.66,Afternoon,Low,Clear,MINIVAN 7,921.96
+12.49,36.29,Morning,Medium,Rainy,Ride Any EV,548.26
+5.63,16.58,Afternoon,High,Rainy,Ride Any EV,381.11
+9.52,50.48,Morning,Low,Clear,Comfort,562.73
+16.09,12.52,Evening,Low,Rainy,MINIVAN 7,549.84
+28.99,42.59,Morning,Medium,Clear,Comfort,924.95
+30.4,47.99,Night,High,Rainy,Comfort,967.87
+2.23,30.06,Night,High,Cloudy,Comfort,406.48
+18.85,51.36,Morning,Low,Cloudy,MINIVAN 7,766.04
+15.77,12.14,Morning,Low,Cloudy,Ride Any EV,486.64
+9.33,12.61,Morning,Medium,Cloudy,MINIVAN 7,444.27
+5.96,67.58,Morning,Medium,Cloudy,MIDSIZE4,565.89
+13.14,35.21,Night,High,Clear,MINIVAN 7,631.24
+33.12,18.89,Afternoon,High,Cloudy,MINIVAN 7,955.22
+12.67,46.56,Morning,Low,Cloudy,MINIVAN 7,621.0
+19.12,63.9,Morning,High,Cloudy,MINIVAN 7,865.28
+25.2,25.11,Night,Medium,Cloudy,Ride Any EV,717.8
+14.0,53.6,Night,Medium,Rainy,MIDSIZE4,649.06
+34.07,15.97,Evening,Low,Clear,Ride Any EV,851.79
+33.76,13.62,Morning,Medium,Cloudy,Ride Any EV,850.19
+10.31,47.19,Evening,Medium,Cloudy,MINIVAN 7,621.01
+18.41,47.84,Night,Medium,Cloudy,Comfort,743.14
+11.93,54.62,Night,Medium,Clear,Comfort,633.21
+11.4,60.83,Afternoon,Low,Rainy,Ride Any EV,632.82
+3.22,78.31,Morning,Low,Clear,Ride Any EV,550.7
+22.12,46.14,Evening,High,Rainy,MINIVAN 7,847.08
+18.59,32.61,Night,Medium,Cloudy,Ride Any EV,614.38
+3.7,65.66,Night,High,Cloudy,MINIVAN 7,595.67
+11.2,28.96,Evening,Low,Clear,Comfort,504.82
+31.97,40.73,Afternoon,Low,Clear,Comfort,917.7
+9.91,15.49,Night,Low,Rainy,MIDSIZE4,410.12
+6.78,11.77,Morning,Low,Rainy,Comfort,345.83
+18.15,77.39,Night,Low,Clear,Ride Any EV,805.48
+34.53,68.52,Morning,Low,Rainy,Comfort,1081.26
+9.99,58.72,Evening,Low,Clear,MINIVAN 7,634.22
+24.18,38.63,Morning,Medium,Rainy,Comfort,811.98
+27.13,22.13,Evening,High,Clear,MIDSIZE4,787.12
+9.84,20.95,Morning,Low,Clear,Comfort,438.21
+26.03,27.52,Evening,Medium,Clear,MINIVAN 7,807.38
